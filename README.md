@@ -38,6 +38,7 @@
 ### Cloud 
 ---
 - [The Power of Serverless for Front-End Developers | The Power of Serverless](https://serverless.css-tricks.com/)
+
 ✅ [Serverless SSR: A Case Study - ZEIT](https://zeit.co/blog/serverless-ssr)
 - [Build and Deploy Serverless Apps with Next.js 8 and Zeit Now](https://blog.hasura.io/build-and-deploy-serverless-apps-with-nextjs-8-zeit-now/)
 - [Understanding AWS Cognito User and Identity Pools for Serverless Apps - The New Stack](https://thenewstack.io/understanding-aws-cognito-user-and-identity-pools-for-serverless-apps/)
