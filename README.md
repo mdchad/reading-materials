@@ -38,12 +38,12 @@
 ### Cloud 
 ---
 - [The Power of Serverless for Front-End Developers | The Power of Serverless](https://serverless.css-tricks.com/)
-+ [Serverless SSR: A Case Study - ZEIT](https://zeit.co/blog/serverless-ssr)
+✅ [Serverless SSR: A Case Study - ZEIT](https://zeit.co/blog/serverless-ssr)
 - [Build and Deploy Serverless Apps with Next.js 8 and Zeit Now](https://blog.hasura.io/build-and-deploy-serverless-apps-with-nextjs-8-zeit-now/)
 - [Understanding AWS Cognito User and Identity Pools for Serverless Apps - The New Stack](https://thenewstack.io/understanding-aws-cognito-user-and-identity-pools-for-serverless-apps/)
--  [https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html](https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html) 
--  [https://docs.aws.amazon.com/cognito/latest/developerguide/identity-pools.html](https://docs.aws.amazon.com/cognito/latest/developerguide/identity-pools.html) 
--  [https://docs.aws.amazon.com/cognito/latest/developerguide/getting-credentials.html](https://docs.aws.amazon.com/cognito/latest/developerguide/getting-credentials.html) 
+- [https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html](https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html) 
+- [https://docs.aws.amazon.com/cognito/latest/developerguide/identity-pools.html](https://docs.aws.amazon.com/cognito/latest/developerguide/identity-pools.html) 
+- [https://docs.aws.amazon.com/cognito/latest/developerguide/getting-credentials.html](https://docs.aws.amazon.com/cognito/latest/developerguide/getting-credentials.html) 
 - [Using Tokens         with User Pools - Amazon Cognito](https://docs.aws.amazon.com/cognito/latest/developerguide/amazon-cognito-user-pools-using-tokens-with-identity-providers.html)
 - [Building a Movie App with React Hooks and Cloudflare Workers - DEV Community 👩‍💻👨‍💻](https://dev.to/jgb/building-a-movie-app-with-react-hooks-and-cloudflare-workers-1m2p)
 - [Using AWS Lambda with an Application Load Balancer - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/services-alb.html)
@@ -53,5 +53,5 @@
 ---
 - [Event Bubbling in JavaScript? Event Propagation Explained](https://www.sitepoint.com/event-bubbling-javascript/)
 - [Javascript - Event order](https://www.quirksmode.org/js/events_order.html#link4)
--  [https://www.w3.org/TR/DOM-Level-3-Events/#dom-event-architecture](https://www.w3.org/TR/DOM-Level-3-Events/#dom-event-architecture) 
+- [https://www.w3.org/TR/DOM-Level-3-Events/#dom-event-architecture](https://www.w3.org/TR/DOM-Level-3-Events/#dom-event-architecture) 
 - [Implementing Role-Based Access Control in a Node.js application - DEV Community 👩‍💻👨‍💻](https://dev.to/soshace/implementing-role-based-access-control-in-a-node-js-application-b8p)
