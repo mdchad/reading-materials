@@ -66,6 +66,8 @@
 - [x] [Anatomy of AWS Lambda - DEV Community 👩‍💻👨‍💻](https://dev.to/sosnowski/anatomy-of-aws-lambda-1i1e)
 - [ ] [Kubernetes in 9 minutes! - YouTube](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 - [ ] [ECS vs. Fargate: What’s the difference? | cloudonaut](https://cloudonaut.io/ecs-vs-fargate-whats-the-difference/)
+- [ ] [GitHub - arminc/terraform-ecs: AWS ECS terraform module](https://github.com/arminc/terraform-ecs)
+- [ ] [GitHub - nathanpeck/awesome-ecs: A curated list of awesome ECS guides, development tools, and resources](https://github.com/nathanpeck/awesome-ecs)
 
 ### Javascript
 - - - -
